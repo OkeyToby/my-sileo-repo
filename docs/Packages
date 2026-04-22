@@ -9,3 +9,16 @@ Author: Test User <test@example.com>
 Filename: debs/com.example.hello_1.0.0_iphoneos-arm.deb
 Size: 672
 MD5sum: fcdc326f5775d38a0dcaeebd0033ce4a
+
+Package: com.example.chatgpt
+Name: ChatGPT Terminal Client
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple ChatGPT client that uses the OpenAI API via curl. Requires an API key set in the OPENAI_API_KEY environment variable.
+Section: Utilities
+Maintainer: Example User <example@example.com>
+Author: Example User <example@example.com>
+Depends: curl
+Filename: debs/com.example.chatgpt_1.0.0_iphoneos-arm.deb
+Size: 1592
+MD5sum: a65ff17cba17102cd74bf085779fb708
