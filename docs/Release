@@ -6,5 +6,13 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Example repo for demonstration
+Date: Wed, 22 Apr 2026 17:35:57 UTC
 MD5Sum:
  1a79d95e8e4cd0ed86f882b965dae751 1229 Packages
+ 1cb5be25da0b1d612d1c4cec0e6124a3 520 Packages.gz
+SHA1:
+ 0d1379e823bef4fdac921fab4b5fc43489c4d43f 1229 Packages
+ a0da637c22a0bb37ee0fc59eb6f45e0d0ef3a10f 520 Packages.gz
+SHA256:
+ 1500b552bae9adc515264d4ebc848b5c5681bbdab5d35482fc4f778c6703c9ff 1229 Packages
+ 0e5130584b9c09b2d1e896a4ac00b90873e1b4c05a24692b058960d1c5027a55 520 Packages.gz
