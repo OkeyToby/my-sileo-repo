@@ -22,3 +22,15 @@ Depends: curl
 Filename: debs/com.example.chatgpt_1.0.0_iphoneos-arm.deb
 Size: 1592
 MD5sum: a65ff17cba17102cd74bf085779fb708
+
+Package: com.example.numbergame
+Name: Number Guessing Game
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple number guessing game. Guess the randomly chosen number between 1 and 10.
+Section: Games
+Maintainer: Example User <example@example.com>
+Author: Example User <example@example.com>
+Filename: debs/com.example.numbergame_1.0.0_iphoneos-arm.deb
+Size: 1084
+MD5sum: b312e3bbe13ad3ceb588c1335404fd47
